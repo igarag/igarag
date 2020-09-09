@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Nacho Arranz.</h1>
 <h3 align="center">Passionate about Python. Learning everything.</h3>
 
-- 🔭 I’m currently working and learning NLP **natural language processing**
+- 🔭 I’m currently working and learning **transformers and NLP (Natural Language Processing)**
 
-- 🌱 I’m currently learning **Transformers, NLP and reinforcement learning**
+- 🌱 I’m currently learning **Transformers, NLP and Reinforcement Learning**
 
 - 👯 I’m collaborate on [JdeRobot Project](https://github.com/JdeRobot)
 
 - 🤝 Now, I'm working on [my master thesis (reinforcement learning)](https://roboticslaburjc.github.io/2019-tfm-ignacio-arranz/)
 
-- 👨‍💻 All of my projects are available at [https://igarag.github.io/online-cv/](https://igarag.github.io/online-cv/)
+- 👨‍💻 All of my projects are available at [my GitHub repositories.](https://github.com/igarag?tab=repositories)
 
-- 📝 I regulary write articles on [My master thesis work and soon a new project](My master thesis work and soon a new project)
+- 📝 I regulary write articles on [My master thesis blog.](https://roboticslaburjc.github.io/2019-tfm-ignacio-arranz/)
 
 - 💬 Ask me about **Python, Computer Vision, Django ...**
 
