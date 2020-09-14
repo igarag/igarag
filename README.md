@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Transformers, NLP and Reinforcement Learning**
 
-- 👯 I’m collaborate on [JdeRobot Project](https://github.com/JdeRobot)
+- 👯 I’m contributing on [JdeRobot Project](https://github.com/JdeRobot)
 
 - 🤝 Now, I'm working on [my master thesis (reinforcement learning)](https://roboticslaburjc.github.io/2019-tfm-ignacio-arranz/)
 
