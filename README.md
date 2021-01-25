@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories.](https://github.com/igarag?tab=repositories)
 
-- 📝 I regulary write articles on [My master thesis blog.](https://roboticslaburjc.github.io/2019-tfm-ignacio-arranz/)
+- 📝 I regulary write articles on [Python-Web.](https://github.com/igarag/python-web). These articles will be published soon in a new blog that is under development. Stay tuned!.
 
 - 💬 Ask me about **Python, Computer Vision, Django ...**
 
