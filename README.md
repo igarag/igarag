@@ -7,7 +7,7 @@
 
 - 👯 I’m contributing on [JdeRobot Project](https://github.com/JdeRobot)
 
-- 🤝 You can take a look at the final work of the Master of Vision in this [RoboticsLabURJC repository](https://github.com/RoboticsLabURJC/2019-tfm-ignacio-arranz). Part of this work has been moved to a new JdeRobot repository: [Gym-Gazebo-2](https://github.com/JdeRobot/RL-Studio).
+- 🤝 You can take a look at the final work of the Master of Vision in this [RoboticsLabURJC repository](https://github.com/RoboticsLabURJC/2019-tfm-ignacio-arranz). Part of this work has been moved to a new JdeRobot repository: [RL-Studio](https://github.com/JdeRobot/RL-Studio).
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories.](https://github.com/igarag?tab=repositories)
 
